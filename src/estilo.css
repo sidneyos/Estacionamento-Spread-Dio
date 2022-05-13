@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: cadetblue;
+    font-size: 45px;
+
+}
+
+#name {
+    margin-left: 413px;
+    margin-top: 80px;
+    padding: 8px;
+    font-size: 18px;
+}
+
+#licence {
+    padding: 8px;
+    font-size: 18px;
+}
+
+#send {
+    padding: 12px 42px;
+    background-color: aquamarine;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    margin-left: 580px;
+    margin-top: 7px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.table {
+    margin-left: 490px;
+}
